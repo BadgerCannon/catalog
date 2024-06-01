@@ -1,0 +1,38 @@
+{
+    "charts": {},
+    "test": {},
+    "incubator": {
+        "recyclarr": {
+            "app_readme": "Command line app for downloading from video sites on a schedule.",
+            "categories": ["Tools-Utilities"],
+            "description": "A command-line application that will automatically synchronize recommended settings from TRaSH guides to your Sonarr/Radarr instances.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/recyclarr",
+            "location": "/home/runner/_work/catalog/catalog/stable/recyclarr",
+            "latest_version": "10.0.8",
+            "latest_app_version": "6.0.2",
+            "latest_human_version": "6.0.2_10.0.8",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "recyclarr",
+            "recommended": false,
+            "title": "Recyclarr",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/recyclarr/recyclarr",
+                "https://github.com/recyclarr/recyclarr",
+                "https://github.com/recyclarr/recyclarr/pkgs/container/recyclarr",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/recyclarr"
+            ],
+            "icon_url": "https://raw.githubusercontent.com/BadgerCannon/badgercharts/main/charts/incubator/yt-dlp/icon.png"
+        }
+    }
+}
