@@ -1,4 +1,4 @@
-{{- define "yt-dlp.ytdlp_jobs" -}}
+{{- define "env.ytdlp_jobs" -}}
 {{ range $cj := .Values.ytdlp_jobs }}
   {{ $name := $cj.name }}
   {{ $command := $cj.command }}
